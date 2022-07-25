@@ -1,4 +1,4 @@
-var gok = [{"name":"ay","id":"533"},
+var gokul = [{"name":"ay","id":"533"},
 
 {"name":"kiy","id":"33"},
 
