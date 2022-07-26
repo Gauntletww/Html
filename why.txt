@@ -1,0 +1,5 @@
+axios.get('https://httpbin.org/get', {
+  headers: {
+    'Test-Header': 'test-value'
+  }
+})
